@@ -82,11 +82,11 @@ body * {
     left: 0;
     z-index: 1;
     transform: translateY(-50%);
-    animation: slide-back .2s ;
+    animation: slide-back .3s ;
 }
 
 .light #switch button {
-    animation: slide-in .2s forwards;
+    animation: slide-in .3s forwards;
 }
 
 #switch span {
